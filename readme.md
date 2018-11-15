@@ -56,9 +56,9 @@ gpl develop
 
 ### Git Push
 ```
-# Push from master
+# Push to master
 gps
 
-# Push from another branch
+# Push to another branch
 gps develop
 ```
