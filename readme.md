@@ -8,13 +8,13 @@ GIT shortcut for windows
 
 2. Open system setting environment
   
-    ![img](img/1.png)
+    ![img](img/img-1.png)
 
 3. In tab `Advanced`, click `Environment Variables...` button
 
 4. Edit `path` in `System Variables`
 
-    ![img](img/2.png)
+    ![img](img/img-2.png)
 
 5. Paste the path of the project (example: `D:\git-shortcut-windows`)
 
